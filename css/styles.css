@@ -53,7 +53,7 @@ main .blue {
     float: left;
     height: 300px;
     width: 56%;
-    margin-top: 15px;
+    margin: 15px 0 0 14px;
     background-color: lightblue;
 }
 
