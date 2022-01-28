@@ -44,7 +44,7 @@ main .blue {
 .blue .aside-left {
     float: left;
     height: 300px;
-    width: 20%;
+    width: 23%;
     margin-top: 15px;
     background-color: lightblue;
 }
@@ -52,15 +52,15 @@ main .blue {
 .blue .article {
     float: left;
     height: 300px;
-    width: 56%;
-    margin: 15px 0 0 20px;
+    width: 50%;
+    margin: 15px 2%;
     background-color: lightblue;
 }
 
 .blue .aside-right {
-    float: right;
+    float: left;
     height: 300px;
-    width: 20%;
+    width: 23%;
     margin-top: 15px;
     background-color: lightblue;
 }
